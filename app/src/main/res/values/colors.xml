@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFF</color>
+    <color name="green">#008000</color>
+    <color name="red">#FF6347</color>
+    <color name="grey">#D1D2D4</color>
+    <color name="insta_blue">#458eff</color>
+    <color name="insta_red">#fb3958</color>
+</resources>
